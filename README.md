@@ -64,4 +64,3 @@ The dataset consists of fingerprint images categorized according to blood groups
 
 **Narayana Reddy Y L**
 
-GitHub: https://github.com/Reddy1727
