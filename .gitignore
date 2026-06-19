@@ -1,0 +1,5 @@
+*.h5
+trained_model/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
