@@ -40,15 +40,15 @@ Blood Group Detection Using Fingerprint is a Deep Learning-based system that pre
 
 
 
-## 📸 Project Screenshots
+## 📸 ## 📸 Project Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home Page](Screenshots/HomePage.png)
+![Home Page](Screenshots/homepage.png)
 
-### Prediction Result
+### 🔍 Prediction Result
 
-![Prediction Result](Screenshots/pridiction.png)
+![Prediction Result](Screenshots/prediction.png)
 
 
 ---
